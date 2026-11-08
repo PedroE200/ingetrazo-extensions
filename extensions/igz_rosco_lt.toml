@@ -8,6 +8,7 @@ download = "https://github.com/PedroE200/ingetrazo-rosco-lt/releases/download/v1
 sha256 = "0ba332eb861b9bcc8ccd00954b3a58986142121ebc3d87a919d2157a6b1759bf"
 ingetrazo = "0.6.0"
 tags = ["drawing", "productivity"]
+screenshot = "igz_rosco_lt.png"
 
 [name]
 es = "Rosco LT"
