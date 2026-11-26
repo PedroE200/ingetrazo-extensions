@@ -16,6 +16,6 @@ en = "Toolkeeper"
 pt = "Toolkeeper"
 
 [summary]
-es = "Gestor de barras de herramientas: barras personalizadas arrastrando iconos, comandos personales (carpetas, webs, scripts), lista y edición de atajos, estados de las barras, conjuntos de extensiones, copias de seguridad e importar/exportar la configuración."
-en = "Toolbar manager: custom toolbars built by dragging icons, personal commands (folders, links, scripts), a list and editor of all shortcuts, toolbar states, extension sets, backups and import/export of the setup."
-pt = "Gerenciador de barras de ferramentas: barras personalizadas arrastando ícones, comandos pessoais (pastas, links, scripts), lista e edição de atalhos, estados das barras, conjuntos de extensões, backups e importar/exportar a configuração."
+es = "Gestor de barras de herramientas: barras personalizadas arrastrando iconos, comandos personales (carpetas, webs, scripts), atajos, estados de las barras, conjuntos de extensiones y copias de seguridad."
+en = "Toolbar manager: custom toolbars built by dragging icons, personal commands (folders, links, scripts), shortcuts, toolbar states, extension sets and backups."
+pt = "Gerenciador de barras de ferramentas: barras personalizadas arrastando ícones, comandos pessoais (pastas, links, scripts), atalhos, estados das barras, conjuntos de extensões e backups."
